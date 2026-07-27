@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "codex-zotero-bridge@guoxin-ink.github.io": {
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/GuoXin-Ink/codex-zotero-bridge/releases/download/v0.1.0/codex-zotero-bridge-0.1.0.xpi",
+          "update_hash": "sha256:2a34560395a994f12fd60ed53d40cc0259ac7800e27b5986053b5b3416f2b016",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "8.0.1",
+              "strict_max_version": "9.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

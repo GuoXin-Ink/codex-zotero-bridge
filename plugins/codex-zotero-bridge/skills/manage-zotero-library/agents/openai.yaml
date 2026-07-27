@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Zotero Library"
+  short_description: "Safely inspect and update a local Zotero library"
+  default_prompt: "Use $manage-zotero-library to audit my Zotero library, preview evidence-backed metadata fixes, and apply only the changes I approve."

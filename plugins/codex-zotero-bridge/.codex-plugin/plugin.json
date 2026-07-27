@@ -1,0 +1,40 @@
+{
+  "name": "codex-zotero-bridge",
+  "version": "0.1.0",
+  "description": "Safely inspect, organize, and update a local Zotero library from Codex.",
+  "author": {
+    "name": "GuoXin-Ink",
+    "url": "https://github.com/GuoXin-Ink"
+  },
+  "homepage": "https://github.com/GuoXin-Ink/codex-zotero-bridge",
+  "repository": "https://github.com/GuoXin-Ink/codex-zotero-bridge",
+  "license": "MIT",
+  "keywords": [
+    "zotero",
+    "references",
+    "research",
+    "metadata",
+    "bibliography"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Zotero Bridge",
+    "shortDescription": "Safely manage a local Zotero library",
+    "longDescription": "Connect Codex to Zotero on the same computer for metadata audits, duplicate review, collection management, and permission-gated edits.",
+    "developerName": "GuoXin-Ink",
+    "category": "Productivity",
+    "capabilities": [
+      "Read Zotero metadata",
+      "Preview changes",
+      "Permission-gated library updates"
+    ],
+    "websiteURL": "https://github.com/GuoXin-Ink/codex-zotero-bridge",
+    "privacyPolicyURL": "https://github.com/GuoXin-Ink/codex-zotero-bridge/blob/main/PRIVACY.md",
+    "defaultPrompt": [
+      "Audit my Zotero metadata and propose safe fixes.",
+      "Find likely duplicate records in my Zotero library.",
+      "Organize selected Zotero items into collections."
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

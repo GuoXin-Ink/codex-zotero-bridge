@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.xpi
+.env
+.env.*
+config.json
+*.token
+*.secret
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

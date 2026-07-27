@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Codex Zotero Bridge",
+  "version": "0.1.0",
+  "description": "A local, permission-gated bridge that lets Codex inspect and update Zotero.",
+  "author": "GuoXin-Ink",
+  "homepage_url": "https://github.com/GuoXin-Ink/codex-zotero-bridge",
+  "applications": {
+    "zotero": {
+      "id": "codex-zotero-bridge@guoxin-ink.github.io",
+      "update_url": "https://raw.githubusercontent.com/GuoXin-Ink/codex-zotero-bridge/main/updates.json",
+      "strict_min_version": "8.0.1",
+      "strict_max_version": "9.*"
+    }
+  }
+}
