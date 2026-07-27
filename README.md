@@ -42,8 +42,8 @@ Zotero must be running while Codex uses the bridge. Codex cloud environments can
 ### 1. Install the Zotero extension
 
 1. Download `codex-zotero-bridge-0.1.0.xpi` from the latest GitHub release.
-2. In Zotero, open **Tools > Add-ons**.
-3. Open the gear menu, choose **Install Add-on From File…**, and select the XPI.
+2. In Zotero, open **Tools > Plugins**.
+3. Drag the XPI into the Plugins window and confirm the installation.
 4. Restart Zotero.
 
 For development builds:

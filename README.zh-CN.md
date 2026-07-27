@@ -42,8 +42,8 @@ Codex 使用桥接器时，Zotero 必须保持运行。Codex 云端环境无法�
 ### 1. 安装 Zotero 扩展
 
 1. 从最新 GitHub Release 下载 `codex-zotero-bridge-0.1.0.xpi`。
-2. 在 Zotero 中打开 **Tools > Add-ons**。
-3. 点击齿轮菜单，选择 **Install Add-on From File…**，然后选择 XPI。
+2. 在 Zotero 中打开 **Tools > Plugins**。
+3. 把 XPI 拖入 Plugins 窗口并确认安装。
 4. 重启 Zotero。
 
 如果要从源码构建：
